@@ -72,7 +72,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: Nutrition Calculator
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
@@ -83,9 +83,17 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          January 2022- May 2022
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          - Built a full-stack user-friendly intelligence system to calculate the recommended number of calories the user should consume based
+            on their daily calorie intake.
+          - Researched and approached with real-life datasets to obtain and use the most accurate information of calories from over a 100 types
+            of foods from grocery stores.
+          - Tested software bugs and operating speed, fixing bugs and documenting processes to increase efficiency by 17%.
+          - Collaborated with a group of 3 engineers to create features across the software.
+            
+
+
   - title: Experience
     layout: list
     content:
