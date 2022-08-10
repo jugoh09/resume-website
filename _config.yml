@@ -205,8 +205,7 @@ content:
       Here are some of my drawings!: /images/IMG_1366.jpg 
                                      /images/IMG_1406.jpg
                                      /images/IMG_0049.jpg
-      Images ![alt text](/images/IMG_1366.jpg "Trees")
-    image: images/IMG_1366.jpg
+      ![Trees](/resume-website/images/IMG_1366.jpg "Trees")
 
 # Footer
 footer_show_references: true
