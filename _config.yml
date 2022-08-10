@@ -206,7 +206,7 @@ content:
                                      /images/IMG_1406.jpg
                                      /images/IMG_0049.jpg
       Images ![alt text](/images/IMG_1366.jpg "Trees")
-      image: /images/IMG_1366.jpg
+    image: /images/IMG_1366.jpg
 
 # Footer
 footer_show_references: true
