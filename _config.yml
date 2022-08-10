@@ -50,7 +50,7 @@ linkedin_username: ju-hann-goh
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: downloads/profile.jpg #Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg #Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Aspiring Computer Scientist seeking a full-time Software/ UI/UX engineer position that will allow me to develop within the field, 
   with strong design thinking, team development and interaction design for the growth of the company. Genuinely always looking forward to learning, 
@@ -59,13 +59,11 @@ about_content: | # this will include new lines to allow paragraphs
   - Click [here](https://docs.google.com/document/d/13slO1AKTTwuyWYA8Yq1EmTlTcc2odzxp/export?format=pdf&ouid=116448960185942559111&rtpof=true&sd=true) for my resume!
   - Check out this [prototype app](https://invis.io/DP11YZJM4KMV#/460666463_HW_8_-_Phone_X_-11-) I created!
   
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+# You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+# - Lists
+# - Tables
+# - <a href="google.com">Links</a>
+# - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
