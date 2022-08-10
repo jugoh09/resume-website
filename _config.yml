@@ -74,7 +74,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: Nutrition Calculator
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        sub_title: January 2022- May 2022
+        caption: January 2022- May 2022
         # additional_links:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
             # icon: fab fa-github
@@ -91,6 +91,55 @@ content:
             of foods from grocery stores.
           - Tested software bugs and operating speed, fixing bugs and documenting processes to increase efficiency by 17%.
           - Collaborated with a group of 3 engineers to create features across the software.
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: PearlTea Prototype App
+        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        caption: August 2021- December 2021
+        # additional_links:
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            # icon: fab fa-github
+            # url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            # icon: fab fa-github
+            # url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # quote: >
+          # January 2022- May 2022
+        description: | # this will include new lines to allow paragraphs
+          - Developed an interactive and useful mobile application for PearlTea to improve their lackluster website.
+          - Fostered collaboration and consistency across teams by working closely with 4 other designers to troubleshoot UX problems and
+            improve user engagement. Generated a task success rate of 75% in 4 months.
+          - Designed over 10 types of prototypes and wireframes, UI animations and mockups to ensure the application is aesthetically
+            pleasing and easy for users to use.
+          - Achieved a single ease question score of 97% in average, as a result of analyzing feedback and conducting
+            rountables/presentations.
+      
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Prototype Siri
+        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        caption: March 2018 - July 2018
+        # additional_links:
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            # icon: fab fa-github
+            # url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            # icon: fab fa-github
+            # url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # quote: >
+          # January 2022- May 2022
+        description: | # this will include new lines to allow paragraphs
+          - Developed an experimental version of Siri using IDLE by identifying and answering user’s questions regarding their flight statuses.
+          - Conducted demos by inserting questions to users, while assisting them with purchasing flight tickets with a user-friendly system.
+          - Utilized a decision tree, including chance event outcomes, resource costs, and utility to solve user’s questions.
+          - Reviewed code and conducted testing that increased contributions by 12%.
+    
+    
+          
+          
+          
             
 
 
