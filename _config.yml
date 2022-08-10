@@ -73,8 +73,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Nutrition Calculator
-        link: (https://github.com/jugoh09/Intelligent-Systems-Project.git)
-        link_tittle: Link to project
+        link: https://github.com/jugoh09/Intelligent-Systems-Project.git
+        link_text: Link to project
         caption: January 2022- May 2022
         # additional_links:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
