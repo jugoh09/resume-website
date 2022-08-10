@@ -56,8 +56,9 @@ about_content: | # this will include new lines to allow paragraphs
   with strong design thinking, team development and interaction design for the growth of the company. Genuinely always looking forward to learning, 
   and developing the necessary skill sets and qualities to have a successful career and future and learn from more experienced people than myself!
   
+  
   - Click [here](https://docs.google.com/document/d/13slO1AKTTwuyWYA8Yq1EmTlTcc2odzxp/export?format=pdf&ouid=116448960185942559111&rtpof=true&sd=true) for my resume!
-  - Check out this [prototype app](https://invis.io/DP11YZJM4KMV#/460666463_HW_8_-_Phone_X_-11-) I created!
+  
   
 # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
 # - Lists
@@ -98,6 +99,8 @@ content:
         title: PearlTea Prototype App
         # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         caption: August 2021- December 2021
+        link: https://invis.io/DP11YZJM4KMV#/460666463_HW_8_-_Phone_X_-11-
+        link_text: Link to project
         # additional_links:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
             # icon: fab fa-github
