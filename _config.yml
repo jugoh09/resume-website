@@ -56,7 +56,6 @@ about_content: | # this will include new lines to allow paragraphs
   with strong design thinking, team development and interaction design for the growth of the company. Genuinely always looking forward to learning, 
   and developing the necessary skill sets and qualities to have a successful career and future and learn from more experienced people than myself!
   
-  
   - Click [here](https://docs.google.com/document/d/13slO1AKTTwuyWYA8Yq1EmTlTcc2odzxp/export?format=pdf&ouid=116448960185942559111&rtpof=true&sd=true) for my resume!
   
   
@@ -150,7 +149,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: UNI Bookstore
         sub_title: Customer Service Representative
         caption: January 2021 - May 2022
@@ -160,7 +159,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Handle transactions for customers in an efficient manner.
           - Resolve customer complaints, guide them and provide relevant information.
-      - layout: right
+      - layout: left
         title: Piazza Dining Center
         sub_title: Food and Beverage Assistant
         caption: January 2019 - December 2020
@@ -176,7 +175,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: middle
         title: University of Northern Iowa
         sub_title: BA Computer Science
         caption: January 2019 - May 2022
@@ -184,12 +183,17 @@ content:
           The University of Northern Iowa is a public university in Cedar Falls, Iowa. 
           UNI offers more than 90 majors across the colleges of Business Administration, 
           Education, Humanities, Arts, and Sciences, Social and Behavioral Sciences 
-          and graduate college. The fall 2019 enrollment was 10,497
+          and graduate college. The fall 2019 enrollment was 10,497.
         description: | # this will include new lines to allow paragraphs
-          Some of the selected courses I during my time in univeristy includes:
-            Data Structure, Computer Organization, Artificial Intelligence, Intelligence Systems,
+          Some of the selected courses I took during my time in univeristy include:
+          - Data Structure, Computer Organization, Artificial Intelligence, Intelligence Systems,
             Computer Architecture and Parallel Programming, User Interface Design,
             Operating Systems, Discrete Structures, Design and Analysis Algorithms
+            
+          Other than academics, I also served as member of the UNI International Student Promoters Club, and my resposibility as a member is to:
+            ● Promoted UNI to prospective international students around the world.
+            ● Assisted international students with any inquiries about campus life.
+            ● Ensured incoming international students were well-informed and felt welcomed joining the UNI community
 
   - title: A Little More About Me
     layout: text
