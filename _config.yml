@@ -50,7 +50,7 @@ linkedin_username: ju-hann-goh
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: downloads/profile.jpg #Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Aspiring Computer Scientist seeking a full-time Software/ UI/UX engineer position that will allow me to develop within the field, 
   with strong design thinking, team development and interaction design for the growth of the company. Genuinely always looking forward to learning, 
