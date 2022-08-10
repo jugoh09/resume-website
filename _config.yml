@@ -175,7 +175,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: middle
+      - layout: top-middle
         title: University of Northern Iowa
         sub_title: BA Computer Science
         caption: January 2019 - May 2022
@@ -191,9 +191,9 @@ content:
             Operating Systems, Discrete Structures, Design and Analysis Algorithms
             
           Other than academics, I also served as member of the UNI International Student Promoters Club, and my resposibility as a member is to:
-            ● Promoted UNI to prospective international students around the world.
-            ● Assisted international students with any inquiries about campus life.
-            ● Ensured incoming international students were well-informed and felt welcomed joining the UNI community
+            - Promoted UNI to prospective international students around the world.
+            - Assisted international students with any inquiries about campus life.
+            - Ensured incoming international students were well-informed and felt welcomed joining the UNI community
 
   - title: A Little More About Me
     layout: text
