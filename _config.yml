@@ -157,7 +157,11 @@ content:
         # quote: >
           # Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          - Handle transactions for customers in an efficient manner.
+          - Handle transactions for customers in an efficient manner. 					
+          - Maintained a high level of customer service with members and staff.
+          - Resolve customer complaints, guide them and provide relevant information via phone, email, and in person.
+          - Utilized WinPrism to access accounting functions, administration functions, and  management of inventory.
+
           - Resolve customer complaints, guide them and provide relevant information.
       - layout: left
         title: Piazza Dining Center
