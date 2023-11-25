@@ -150,6 +150,21 @@ content:
     layout: list
     content:
       - layout: left
+        title: Bionova Scientific
+        sub_title: IT Help Desk Support
+        caption: March 2023 - Present
+        link: https://bionovascientific.com
+        # quote: >
+          # Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          - Provided technical support to end-users, addressing hardware and software issues through phone, email, and in-person.
+          - Diagnosed and troubleshooted problems related to desktops, laptops, printers, and other IT equipment.
+          - Collaborated with cross-functional teams to resolve complex technical issues and escalate problems when necessary.
+          - Document and track all support interactions in the ticketing system, ensuring accurate and timely resolution.
+          - Managed and configured user interface of “LabVantage” website according to employee’s requests.
+
+          
+      - layout: left
         title: UNI Bookstore
         sub_title: Customer Service Representative
         caption: January 2021 - May 2022
